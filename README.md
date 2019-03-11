@@ -10,6 +10,8 @@
 
 
 
+
+
 ## 整体框架
 
 目前项目整体框架主要分为两个部分：第一部分是图像风格迁移模块，第二部分是基于ONNX.js将模型在浏览器上加载运行。
@@ -36,6 +38,8 @@
 
 
 
+
+
 ## 比赛进程
 
 目前暂时处于任务组队阶段，组队时间截止到3月16日。
@@ -44,19 +48,34 @@
 
 
 
-## 相关链接(待整理）
 
-此部分主要放置可选方案的论文以及github链接。建议可以先从资源汇总链接中的review paper开始学习，或者是后面的图像风格迁移三部曲/图像风格迁移简史开始，对整个领域有简单了解再选择感兴趣的内容展开深入学习。
+
+## 相关链接
+
+此部分主要放置可选方案的论文以及github链接。
 
 - [超越的图链](https://github.com/ccyyycy/ycy/blob/master/超越图链)
 
+
+
+###相关学习链接 
+
+建议可以先从资源汇总链接中的review paper开始学习，或者是后面的图像风格迁移三部曲/图像风格迁移简史开始，对整个领域有简单了解再选择感兴趣的内容展开深入学习。
+
 - [图像风格迁移资源汇总](https://github.com/ycjing/Neural-Style-Transfer-Papers)
-- [线稿上色的开源项目]( https://style2paints.github.io/README_zh)
-- [Deep Photo Style Transfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [Fast Photo Style Transfer](https://github.com/NVIDIA/FastPhotoStyle)
 - [人像表情修改](https://zhuanlan.zhihu.com/p/40803572)
 - [图像风格迁移简史](https://zhuanlan.zhihu.com/p/26746283)
 - [图像风格迁移三部曲](https://zhuanlan.zhihu.com/p/36238178)
+
+
+
+### 相关开源项目
+
+建议可以直接通过github按关键词展开搜索，选择需要的内容即可。下面这几个链接是微信群上提到的，所以在此列出。
+
+- [Style2Paint]( https://style2paints.github.io/README_zh)
+- [Deep Photo Style Transfer](https://github.com/luanfujun/deep-photo-styletransfer)
+- [Fast Photo Style Transfer](https://github.com/NVIDIA/FastPhotoStyle)
 
 
 
@@ -77,6 +96,8 @@
 ## 已认领任务
 
 此部分包含已认领任务以及认领人（格式：认领任务+认领人）， 一个任务可以多人认领。
+
+
 
 
 
