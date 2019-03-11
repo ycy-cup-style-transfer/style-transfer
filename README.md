@@ -26,6 +26,8 @@
 
 目前已经使用Github Pages搭建了ONNX.js，由于进度问题，目前上面展示的模型暂时是两个分类模型，具体可点击[链接](https://ycy-cup-style-transfer.github.io)查看。
 
+备注：这个部分
+
 
 
 ### 图像风格迁移模块
@@ -37,6 +39,8 @@
 - [官方Tutorial](https://github.com/onnx/tutorials)
 
 
+
+**备注：目前是否使用ONNX.js处于讨论中，也许会使用tf.js，大家可以先主要进行模型训练，暂时忽略迁移的问题。**
 
 
 
